@@ -20,7 +20,7 @@ Or install it yourself as:
 
 Add it to your Javascript manifest file
 
-    //= require store.min
+    //= require store_js_rails
 
 ## Usage
 
