@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["rgreene@avvo.com"]
 
   spec.summary       = %q{StoreJsRails Javascript packaged for Rails asset pipeline}
-  spec.description   = %q{StoreJsRailsexposes a simple API for cross browser local storage for the Rails asset pipeline}
+  spec.description   = %q{StoreJsRails exposes a simple API for cross browser local storage for the Rails asset pipeline}
   spec.homepage      = "http://www.github.com/rardoz"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
